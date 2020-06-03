@@ -44,5 +44,7 @@ labx-01-eureka-server-standalone: 搭建 Eureka 注册中心
 labx-01-eureka-demo01-provider：搭建服务提供者
 
 labx-01-eureka-demo01-consumer: 搭建服务消费者
+
+**高可用 Eureka 集群**
        
 

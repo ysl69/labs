@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>lab-01-springboot-quick</module>
+        <module>lab-01-springboot-quick2</module>
     </modules>
 
 

@@ -11,5 +11,11 @@
 
     <artifactId>labx-01</artifactId>
 
+    <modules>
+        <module>labx-01-eureka-demo01-consumer</module>
+        <module>labx-01-eureka-demo01-provider</module>
+        <module>labx-01-eureka-server-standalone</module>
+    </modules>
+
 
 </project>
