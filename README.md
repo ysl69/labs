@@ -27,12 +27,22 @@ lab-04-springsecurity-demo-role: SpringBoot安全框架SpringSecurity入门；
 
 
 
-## Spring Cloud Alibaba
+## Spring Cloud Alibaba 全家桶
+
+Spring Cloud Alibaba 注册中心 Nacos 入门
+
+
+
+## Spring Cloud 
 
 ### 一、注册中心
 
-**注册中心Eureka入门**
+**Spring Cloud Netflix 注册中心 Eureka入门**
 
-labx-01: Eureka
+labx-01-eureka-server-standalone: 搭建 Eureka 注册中心
+
+labx-01-eureka-demo01-provider：搭建服务提供者
+
+labx-01-eureka-demo01-consumer: 搭建服务消费者
        
 
